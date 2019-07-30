@@ -13,7 +13,7 @@ Candidate can support more features as they think necessary is plus.
 # Demo
 contain gif demo scenario input *.rss file and navigate to details webView then back and try to delete all.
 #  RSS_DT.zip
-contain all code implement
+zip file contains all code implement
 # RSS_DT 
 all code
 
